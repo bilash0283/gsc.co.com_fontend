@@ -540,18 +540,19 @@ h6 {
 .reg_btn{
   width:200px;
   height: 50px;
-  border:4px solid rgb(13 202 240);
+  border:4px solid #47b2e4;
   color:black;
 }
 .reg_btn:hover{
-  color:#ffffff;
-  background-color: rgb(13 202 240);
+  color:white;
+  background-color: #47b2e4;
 }
 
 .reg_btn_hover{
   width:200px;
   height: 50px;
   border:none;
+  background-color: #47b2e4;
 }
 
 .footer .footer-newsletter .newsletter-form:focus-within {
