@@ -540,7 +540,12 @@ h6 {
 .reg_btn{
   width:200px;
   height: 50px;
-  border:none;
+  border:4px solid rgb(13 202 240);
+  color:black;
+}
+.reg_btn:hover{
+  color:#ffffff;
+  background-color: rgb(13 202 240);
 }
 
 .reg_btn_hover{
