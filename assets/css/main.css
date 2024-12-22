@@ -66,13 +66,6 @@ body {
   font-family: var(--default-font);
 }
 
-.round_icon{
-  height: 50px;
-  width: 50%;
-  border:3px solid var(--accent-color);
-  border-radius: 50%;
-}
-
 a {
   color: var(--accent-color);
   text-decoration: none;
