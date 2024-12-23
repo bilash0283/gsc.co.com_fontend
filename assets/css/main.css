@@ -52,6 +52,7 @@
   --heading-color: #2C3A41;
   --surface-color: #4668a2;
   --contrast-color: #2C3A41;
+  --event-hover-color: #EBF6F1;
 }
 
 /* Smooth scroll */
@@ -66,6 +67,10 @@ body {
   color: var(--default-color);
   background-color: var(--background-color);
   font-family: var(--default-font);
+}
+
+.previous_event{
+  background-color: var(--event-hover-color);
 }
 
 a {
