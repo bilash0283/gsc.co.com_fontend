@@ -279,6 +279,10 @@ h6 {
     color: var(--nav-hover-color);
   }
 
+  .previous_event{
+    background-color: #EBF6F1;
+  }
+
   .navmenu .dropdown ul {
     margin: 0;
     padding: 10px 0;
