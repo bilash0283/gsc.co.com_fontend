@@ -40,39 +40,39 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active fw-semibold text-uppercase">Home</a></li>
+          <li><a href="index.php" class="active fw-semibold text-uppercase">Home</a></li>
           <li class="dropdown"><a href="#"><span class="fw-semibold text-uppercase">Services</span> <i
                 class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="student.php" class="fw-semibold text-uppercase">STUDENTS</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">INSTITUTES</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">AGENTS</a></li>
+              <li><a href="institute.php" class="fw-semibold text-uppercase">INSTITUTES</a></li>
+              <li><a href="agent.php" class="fw-semibold text-uppercase">AGENTS</a></li>
               <li><a href="#" class="fw-semibold text-uppercase">SERVICE PROVIDERS</a></li>
             </ul>
           </li>
-          <li class="dropdown"><a href="#"><span class="fw-semibold text-uppercase">Study Destinations</span> <i
+          <li class="dropdown"><a href="index.php"><span class="fw-semibold text-uppercase">Study Destinations</span> <i
                 class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="#" class="fw-semibold text-uppercase">UK</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">USA</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">CANADA</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">AUSTRALIA</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">EUROPE</a></li>
+            <li><a href="usa.php" class="fw-semibold text-uppercase">USA</a></li>
+              <li><a href="index.php" class="fw-semibold text-uppercase">UK</a></li>
+              <li><a href="usa.php" class="fw-semibold text-uppercase">CANADA</a></li>
+              <li><a href="index.php" class="fw-semibold text-uppercase">AUSTRALIA</a></li>
+              <li><a href="usa.php" class="fw-semibold text-uppercase">EUROPE</a></li>
             </ul>
           </li>
-          <li><a href="#team" class="fw-semibold text-uppercase">ABOUT US</a></li>
+          <li><a href="contacts.php" class="fw-semibold text-uppercase">CONTACT US</a></li>
           <li class="dropdown"><a href="#" class="fw-semibold text-uppercase"><span>Resources</span> <i
                 class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="#" class="fw-semibold text-uppercase">Student Guide</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">Scholarship</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">Study Abroad FAQ</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">SOP IELTS GRE</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">Agents Training</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">Events/Fairs</a></li>
+              <li><a href="index.php" class="fw-semibold text-uppercase">Student Guide</a></li>
+              <li><a href="index.php" class="fw-semibold text-uppercase">Scholarship</a></li>
+              <li><a href="index.php" class="fw-semibold text-uppercase">Study Abroad FAQ</a></li>
+              <li><a href="index.php" class="fw-semibold text-uppercase">SOP IELTS GRE</a></li>
+              <li><a href="index.php" class="fw-semibold text-uppercase">Agents Training</a></li>
+              <li><a href="index.php" class="fw-semibold text-uppercase">Events/Fairs</a></li>
             </ul>
           </li>
-          <li><a href="#singup" class="fw-semibold text-uppercase">EVENT</a></li>
+          <li><a href="event.php" class="fw-semibold text-uppercase">EVENT</a></li>
           <li><a href="https://gsc.co.com/apply-agent/portal/index.php" class="fw-semibold text-uppercase">Sign Up / Sing in</a></li>
           <!-- <li><a href="#contact" class="fw-semibold text-uppercase">login</a></li> -->
         </ul>
