@@ -9,7 +9,7 @@
       <div class="row gy-4">
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item position-relative rounded-3">
-            <a href="https://gsc.co.com/apply-agent/portal/index.php">
+            <a href="https://ci-gsc.com">
               <div class="icon">
                 <img src="./assets/src_gsc/image/svg/icon_1_q6v9fb.svg" class="img-fluid p-4" alt="">
               </div>
@@ -21,7 +21,7 @@
 
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item position-relative rounded-3">
-            <a href="https://gsc.co.com/apply-agent/portal/index.php">
+            <a href="https://ci-gsc.com/">
               <div class="icon">
                 <img src="./assets/src_gsc/image/svg/icon_2_x3hthy.svg" class="img-fluid p-4" alt="">
               </div>
@@ -34,12 +34,12 @@
 
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item position-relative rounded-3">
-            <a href="https://gsc.co.com/apply-agent/portal/index.php">
+            <a href="https://ci-gsc.com/">
               <div class="icon">
                 <img src="./assets/src_gsc/image/svg/icon_3_boelcg.svg" class="img-fluid p-4" alt="">
               </div>
               <h4 class="text-center">
-                <a href="https://gsc.co.com/apply-agent/portal/index.php" class="stretched-link">Agents</a>
+                <a href="https://ci-gsc.com/" class="stretched-link">Agents</a>
               </h4>
               <p class="text-center fw-light">300+ in Network</p>
             </a>
