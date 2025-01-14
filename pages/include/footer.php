@@ -28,9 +28,9 @@
         </div>
         <div class="col-lg-6">
           <button class=" border-none fw-semibold reg_btn"><a
-              href="https://gsc.co.com/apply-agent/portal/index.php">LOGIN</a></button>
+              href="https://ci-gsc.com/">LOGIN</a></button>
           <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
-              href="https://gsc.co.com/apply-agent/portal/index.php" class="text-white">REGISTATION</a></button>
+              href="https://ci-gsc.com/" class="text-white">REGISTATION</a></button>
         </div>
       </div>
     </div>
@@ -43,24 +43,38 @@
         <a href="index.php" class="d-flex align-items-center">
           <img src="./assets/src_gsc/favicon2.png" alt="" class="img-fluid mx-auto" style="width:120px;height: 120px;">
         </a>
-        <div class="row mt-3">
-          <div class="col-md-6">
+        <div class="row">
+          <div class="col-md-6 my-2">
             <div class="footer-contact">
               <p><strong class="text-info">Bangladesh</strong></p>
+              <p href="#"><i class="bi bi-geo-alt-fill text-info"></i> House-54/A(1st Floor), Road-132,<br>
+                Gulshan-1, Dhaka
+              </p>
               <p><i class="bi bi-envelope-fill text-info"></i> info@ci-gsc.com</p>
-              <p href="#"><i class="bi bi-geo-alt-fill text-info"></i> House no.-54/A(1st Floor), Road-132,
-                Gulshan-1, Dhaka-1212</p>
+              <p><i class="bi bi-telephone-fill text-info mr-2"></i>+880 1990225993</p>
             </div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 my-2">
             <div class="footer-contact">
               <p><strong class="text-info">Switzerland</strong></p>
+              <p href="#"><i class="bi bi-geo-alt-fill text-info"></i> Av de travail 19,<br>
+              1007 Lausanne 
+              </p>
               <p><i class="bi bi-envelope-fill text-info"></i> swiss@ci-gsc.com</p>
-              <p href="#"><i class="bi bi-geo-alt-fill text-info"></i> Av de travail 19,
-              1007 Lausanne </p>
+              <p><i class="bi bi-telephone-fill text-info mr-2"></i>+41 079 471 95 92 </p>
             </div>
           </div>
         </div>
+      </div>
+
+      <div class="col-lg-2 col-md-3 footer-links">
+        <h4>Our Services</h4>
+        <ul>
+          <li><i class="bi bi-chevron-right"></i> <a href="#">Students</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="#">Institutes</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="#">Agents</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="#">Service Providers</a></li>
+        </ul>
       </div>
 
       <div class="col-lg-2 col-md-3 footer-links">
@@ -71,16 +85,6 @@
           <li><i class="bi bi-chevron-right"></i> <a href="#" class="text-uppercase">Europe</a></li>
           <li><i class="bi bi-chevron-right"></i> <a href="#" class="text-uppercase">CANADA</a></li>
           <li><i class="bi bi-chevron-right"></i> <a href="#" class="text-uppercase">Australia</a></li>
-        </ul>
-      </div>
-
-      <div class="col-lg-2 col-md-3 footer-links">
-        <h4>Our Services</h4>
-        <ul>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Students</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Institutes</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Agents</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Service Providers</a></li>
         </ul>
       </div>
 

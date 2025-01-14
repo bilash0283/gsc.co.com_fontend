@@ -26,13 +26,13 @@
   </section><!-- /Hero Section -->
 
   <!-- Clients Section -->
-   <?php include "./pages/component/clients_section.php"; ?>
- <!-- /Clients Section -->
+  <?php include "./pages/component/clients_section.php"; ?>
+  <!-- /Clients Section -->
 
 
   <!-- Services Section -->
-   <?php include "./pages/component/services_section.php"; ?>
-<!-- /Services Section -->
+  <?php include "./pages/component/services_section.php"; ?>
+  <!-- /Services Section -->
 
 
   <!-- Why Us Section -->
@@ -110,7 +110,8 @@
         <div class="col-lg-6">
           <div class="row my-2">
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/australia-logo-1.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (8).jpg" class="img-fluid rounded-2"
+                alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
               <img src="./assets/src_gsc/image/l1/png/australia-logo-2.jpg" class="img-fluid rounded-2" alt="">
@@ -119,7 +120,7 @@
               <img src="./assets/src_gsc/image/l1/png/australia-logo-3.jpg" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/canada-logo-1.jpg" class="img-fluid rounded-2" alt="">
+            <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (5).jpg" class="img-fluid rounded-2" alt="">
             </div>
           </div>
           <div class="row my-2">
@@ -138,16 +139,20 @@
           </div>
           <div class="row my-2">
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/usa-logo-1.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/l1/populer_univer/australia-logo-2.jpg" class="img-fluid rounded-2"
+                alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/usa-logo-2.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (8).jpg" class="img-fluid rounded-2"
+                alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/usa-logo-3.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (7).jpg" class="img-fluid rounded-2"
+                alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/usa-logo-4.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (6).jpg" class="img-fluid rounded-2"
+                alt="">
             </div>
           </div>
         </div>
