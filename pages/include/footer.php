@@ -48,7 +48,7 @@
             <div class="footer-contact">
               <p><strong class="text-info">Bangladesh</strong></p>
               <p><i class="bi bi-envelope-fill text-info"></i> info@ci-gsc.com</p>
-              <p href="#"><i class="bi bi-geo-alt-fill text-info"></i> House no.-54/A(1rd Floor), Road-132,
+              <p href="#"><i class="bi bi-geo-alt-fill text-info"></i> House no.-54/A(1st Floor), Road-132,
                 Gulshan-1, Dhaka-1212</p>
             </div>
           </div>

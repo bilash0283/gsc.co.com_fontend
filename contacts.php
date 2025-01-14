@@ -15,7 +15,7 @@
                                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                                 <div>
                                     <h3>Address</h3>
-                                    <p>House no.-54/A(3rd Floor), Road-132, Gulshan-1, Dhaka-1212</p>
+                                    <p>House no.-54/A(1st Floor), Road-132, Gulshan-1, Dhaka-1212</p>
                                 </div>
                             </div><!-- End Info Item -->
                             <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
