@@ -125,13 +125,13 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100%">
             <div class="card-body">
-              <img src="assets/src_gsc/image/l1/populer_univer/populer_u_logo (3).jpg" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/l1/populer_univer/australia-logo-1.jpg" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Midwestern State University</h6>
+                <h6 class="py-2">AGB Trainng</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> Australia</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-briefcase-fill mr-2"></i> Ranking 3.9/5</span> <br>
