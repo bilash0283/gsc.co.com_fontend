@@ -38,6 +38,7 @@
 
   <div class="container footer-top">
     <div class="row gy-4">
+      
       <div class="col-lg-4 col-md-6 footer-about">
         <a href="index.php" class="d-flex align-items-center">
           <img src="./assets/src_gsc/favicon2.png" alt="" class="img-fluid mx-auto" style="width:120px;height: 120px;">
@@ -45,18 +46,18 @@
         <div class="row mt-3">
           <div class="col-md-6">
             <div class="footer-contact">
-              <p><strong>Contact us at</strong></p>
-              <strong class="text-info">info@ci-gsc.com</strong><br>
-              <strong href="#">House no.-54/A(1rd Floor), Road-132,
-                Gulshan-1, Dhaka-1212</strong>
+              <p><strong class="text-info">Bangladesh</strong></p>
+              <p><i class="bi bi-envelope-fill text-info"></i> info@ci-gsc.com</p>
+              <p href="#"><i class="bi bi-geo-alt-fill text-info"></i> House no.-54/A(1rd Floor), Road-132,
+                Gulshan-1, Dhaka-1212</p>
             </div>
           </div>
           <div class="col-md-6">
             <div class="footer-contact">
-              <p><strong>Contact us at</strong></p>
-              <strong class="text-info">info@ci-gsc.com</strong><br>
-              <strong href="#">House no.-54/A(1rd Floor), Road-132,
-                Gulshan-1, Dhaka-1212</strong>
+              <p><strong class="text-info">Switzerland</strong></p>
+              <p><i class="bi bi-envelope-fill text-info"></i> swiss@ci-gsc.com</p>
+              <p href="#"><i class="bi bi-geo-alt-fill text-info"></i> Av de travail 19,
+              1007 Lausanne </p>
             </div>
           </div>
         </div>
@@ -85,11 +86,12 @@
 
       <div class="col-lg-4 col-md-12">
         <h4>Follow Us</h4>
+        <p>Follow us on social media for updates, news, and more!</p>
         <div class="social-links d-flex">
-          <a href=""><i class="bi bi-twitter-x"></i></a>
-          <a href=""><i class="bi bi-facebook"></i></a>
-          <a href=""><i class="bi bi-instagram"></i></a>
-          <a href=""><i class="bi bi-linkedin"></i></a>
+          <a href="https://twitter.com/StudyContacts" target="_blank"><i class="bi bi-twitter-x"></i></a>
+          <a href="https://www.facebook.com/GSCStudyAbroad/" target="_blank"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.instagram.com/gsc_study_abroad/" target="_blank"><i class="bi bi-instagram"></i></a>
+          <a href="https://www.linkedin.com/company/global-study-contacts-gsc/" target="_blank"><i class="bi bi-linkedin"></i></a>
         </div>
       </div>
 
