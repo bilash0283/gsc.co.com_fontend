@@ -2,7 +2,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2><strong>We provide Services to four groups</strong></h2>
-      <p>Leveraging our 30years of contacts we specialise in connecting the right people at the right time</p>
+      <p>Leveraging our 34years of contacts we specialise in connecting the right people at the right time</p>
     </div><!-- End Section Title -->
 
     <div class="container">

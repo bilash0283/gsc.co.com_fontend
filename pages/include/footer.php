@@ -27,8 +27,8 @@
           <h2><strong>Most comprehensive Education Consultancy Agency</strong></h2>
         </div>
         <div class="col-lg-6">
-          <button class=" border-none fw-semibold reg_btn"><a
-              href="https://ci-gsc.com/">LOGIN</a></button>
+        <button class=" border-none fw-semibold reg_btn"><a
+              href="https://ci-gsc.com/" class="text-white">LOGIN</a></button>
           <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
               href="https://ci-gsc.com/" class="text-white">REGISTATION</a></button>
         </div>

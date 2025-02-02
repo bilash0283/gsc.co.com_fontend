@@ -66,123 +66,9 @@
                 <h1 class="text-center fw-semibold"><strong>Featured Programs</strong></h1>
                 <p class="text-center">Choose from among 1500+ Programs and 200+ Universities</p>
 
-                <div class="row mt-5">
-                    <div class="col-xl-4">
-                        <div class="card m-2">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <img src="assets/src_gsc/image/l2/jpg/gallery-img1.jpg" class="img-fluid rounded-2"
-                                        alt="" style="width:100px; height: 100px;">
-                                    <h4 style="margin-left: 20px;">University of Canada West</h4>
-                                </div>
-                                <div class="d-flex justify-content-between align-items-center mt-5">
-                                    <small class="bg-info px-2 py-1 rounded-1 text-primary m-2 text-small"
-                                        style="font-size: 12px;"><i class="bi bi-geo-alt-fill"></i> Canada</small>
-                                    <p class="bg-info px-2 py-1 rounded-1 text-danger m-2" style="font-size: 12px;"><i
-                                            class="bi bi-briefcase"></i> 80K-90K</p>
-                                    <i class="bi bi-bookmark-fill text-info " style="font-size: 28px;"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <!-- university details info show with card  -->
+                <?php include "pages/component/university_card.php"; ?>
 
-                    <div class="col-xl-4">
-                        <div class="card m-2">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <img src="assets/src_gsc/image/l2/jpg/gallery-img2.jpg" class="img-fluid rounded-2"
-                                        alt="" style="width:100px; height: 100px;">
-                                    <h4 style="margin-left: 20px;">European University of Cyprus</h4>
-                                </div>
-                                <div class="d-flex justify-content-between align-items-center mt-5">
-                                    <small class="bg-info px-2 py-1 rounded-1 text-primary m-2 text-small"
-                                        style="font-size: 12px;"><i class="bi bi-geo-alt-fill"></i> Cyprus</small>
-                                    <p class="bg-info px-2 py-1 rounded-1 text-danger m-2" style="font-size: 12px;"><i
-                                            class="bi bi-briefcase"></i> 80K-90K</p>
-                                    <i class="bi bi-bookmark text-info " style="font-size: 28px;"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4">
-                        <div class="card m-2">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <img src="assets/src_gsc/image/l2/jpg/gallery-img4.jpg" class="img-fluid rounded-2"
-                                        alt="" style="width:100px; height: 100px;">
-                                    <h4 style="margin-left: 20px;">Wichita State University</h4>
-                                </div>
-                                <div class="d-flex justify-content-between align-items-center mt-5">
-                                    <small class="bg-info px-2 py-1 rounded-1 text-primary m-2 text-small"
-                                        style="font-size: 12px;"><i class="bi bi-geo-alt-fill"></i> Cyprus</small>
-                                    <p class="bg-info px-2 py-1 rounded-1 text-danger m-2" style="font-size: 12px;"><i
-                                            class="bi bi-briefcase"></i> 80K-90K</p>
-                                    <i class="bi bi-bookmark text-info " style="font-size: 28px;"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row mt-3">
-                    <div class="col-xl-4">
-                        <div class="card m-2">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <img src="assets/src_gsc/image/l2/jpg/gallery-img7.jpg" class="img-fluid rounded-2"
-                                        alt="" style="width:100px; height: 100px;">
-                                    <h4 style="margin-left: 20px;">Royel Business Collage</h4>
-                                </div>
-                                <div class="d-flex justify-content-between align-items-center mt-5">
-                                    <small class="bg-info px-2 py-1 rounded-1 text-primary m-2 text-small"
-                                        style="font-size: 12px;"><i class="bi bi-geo-alt-fill"></i> UK</small>
-                                    <p class="bg-info px-2 py-1 rounded-1 text-danger m-2" style="font-size: 12px;"><i
-                                            class="bi bi-briefcase"></i> 80K-90K</p>
-                                    <i class="bi bi-bookmark text-info " style="font-size: 28px;"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4">
-                        <div class="card m-2">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <img src="assets/src_gsc/image/l2/jpg/gallery-img8.jpg" class="img-fluid rounded-2"
-                                        alt="" style="width:100px; height: 100px;">
-                                    <h4 style="margin-left: 20px;">Risbey University Collage</h4>
-                                </div>
-                                <div class="d-flex justify-content-between align-items-center mt-5">
-                                    <small class="bg-info px-2 py-1 rounded-1 text-primary m-2 text-small"
-                                        style="font-size: 12px;"><i class="bi bi-geo-alt-fill"></i> USA</small>
-                                    <p class="bg-info px-2 py-1 rounded-1 text-danger m-2" style="font-size: 12px;"><i
-                                            class="bi bi-briefcase"></i> 80K-90K</p>
-                                    <i class="bi bi-bookmark text-info " style="font-size: 28px;"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4">
-                        <div class="card m-2">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <img src="assets/src_gsc/image/l2/jpg/gallery-img9.jpg" class="img-fluid rounded-2"
-                                        alt="" style="width:100px; height: 100px;">
-                                    <h4 style="margin-left: 20px;">Wichita State University</h4>
-                                </div>
-                                <div class="d-flex justify-content-between align-items-center mt-5">
-                                    <small class="bg-info px-2 py-1 rounded-1 text-primary m-2 text-small"
-                                        style="font-size: 12px;"><i class="bi bi-geo-alt-fill"></i> Cyprus</small>
-                                    <p class="bg-info px-2 py-1 rounded-1 text-danger m-2" style="font-size: 12px;"><i
-                                            class="bi bi-briefcase"></i> 80K-90K</p>
-                                    <i class="bi bi-bookmark text-info " style="font-size: 28px;"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </section>
         <!-- university list card  -->
@@ -226,7 +112,6 @@
             </div>
         </section>
         <!-- image grid view  -->
-
     </main>
 
     <?php include "./pages/include/footer.php"; ?>

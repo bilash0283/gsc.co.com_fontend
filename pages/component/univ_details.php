@@ -7,9 +7,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
-          <div class="card h-100%">
+          <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/l1/populer_univer/populer_u_logo (4).jpg" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/uk/uk (5).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
@@ -45,9 +45,9 @@
         </div><!-- End Pricing Item -->
 
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
-          <div class="card h-100%">
+          <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/l1/populer_univer/populer_u_logo (1).jpg" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/canada/canada (13).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
@@ -83,15 +83,15 @@
         </div><!-- End Pricing Item -->
 
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
-          <div class="card h-100%">
+          <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/l1/populer_univer/populer_u_logo (2).jpg" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/usa/usa (4).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
                 <h6 class="py-2">Middle Tennessee State University</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> United States</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-briefcase-fill mr-2"></i> Ranking 3.9/5</span> <br>
@@ -123,13 +123,13 @@
 
       <div class="row">
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
-          <div class="card h-100%">
+          <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/l1/populer_univer/australia-logo-1.jpg" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/Australia/australia (2).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">AGB Trainng</h6>
+                <h6 class="py-2">Victoria University</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
                   style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> Australia</span>
 
@@ -161,21 +161,21 @@
         </div><!-- End Pricing Item -->
 
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
-          <div class="card h-100%">
+          <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/l1/populer_univer/populer_u_logo (8).jpg" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/Denmark/denmark (1).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Trine University </h6>
+                <h6 class="py-2">Niels Brock Copenhagen Business College </h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> Denmark</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
-                    class="bi bi-briefcase-fill mr-2"></i> Ranking 3.9/5</span> <br>
+                    class="bi bi-briefcase-fill mr-2"></i> Ranking 3.8/2</span> <br>
 
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
-                    class="bi bi-currency-dollar mr-2"></i> Average Annual Fee: $14k-19k</span> <br>
+                    class="bi bi-currency-dollar mr-2"></i> Average Annual Fee: $13k-19k</span> <br>
 
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-bank"></i> Accomodation</span>
@@ -199,21 +199,21 @@
         </div><!-- End Pricing Item -->
 
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
-          <div class="card h-100%">
+          <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/l1/populer_univer/populer_u_logo (7).jpg" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/Ireland/Ireland (4).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">University of Winchester</h6>
+                <h6 class="py-2">Dundalk Institute of Technology</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> UK</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> Ireland</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
-                    class="bi bi-briefcase-fill mr-2"></i> Ranking 3.9/5</span> <br>
+                    class="bi bi-briefcase-fill mr-2"></i> Ranking 3.4/1</span> <br>
 
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
-                    class="bi bi-currency-dollar mr-2"></i> Average Annual Fee: $14k-19k</span> <br>
+                    class="bi bi-currency-dollar mr-2"></i> Average Annual Fee: $11k-18k</span> <br>
 
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-bank"></i> Accomodation</span>

@@ -29,11 +29,9 @@
   <?php include "./pages/component/clients_section.php"; ?>
   <!-- /Clients Section -->
 
-
   <!-- Services Section -->
   <?php include "./pages/component/services_section.php"; ?>
   <!-- /Services Section -->
-
 
   <!-- Why Us Section -->
   <section id="why-us" class="section why-us light-background py-5" data-builder="section">
@@ -88,14 +86,12 @@
 
   </section><!-- /Why Us Section -->
 
-
   <!-- university Detaiils Section -->
   <?php include "./pages/component/univ_details.php"; ?>
   <!-- /university Detaiils Section -->
 
-
   <!-- grid img section  -->
-  <section id="#">
+  <section id="#" class="bg-light">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6">
@@ -110,49 +106,45 @@
         <div class="col-lg-6">
           <div class="row my-2">
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (8).jpg" class="img-fluid rounded-2"
+              <img src="./assets/src_gsc/image/uni_img/Australia/australia (7).png" class="img-fluid rounded-2"
                 alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/australia-logo-2.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/uni_img/uk/uk (6).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/australia-logo-3.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/uni_img/Australia/australia (4).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-            <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (5).jpg" class="img-fluid rounded-2" alt="">
+            <img src="./assets/src_gsc/image/uni_img/Australia/australia (8).png" class="img-fluid rounded-2" alt="">
             </div>
           </div>
           <div class="row my-2">
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/canada-logo-2.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/uni_img/Canada/canada (5).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/canada-logo-3.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/uni_img/Canada/canada (1).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/canada-logo-4.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/uni_img/UK/uk (1).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/png/canada-logo-5.jpg" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/uni_img/uk/uk (2).png" class="img-fluid rounded-2" alt="">
             </div>
           </div>
           <div class="row my-2">
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/populer_univer/australia-logo-2.jpg" class="img-fluid rounded-2"
-                alt="">
+              <img src="./assets/src_gsc/image/uni_img/USA/usa (1).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (8).jpg" class="img-fluid rounded-2"
-                alt="">
+              <img src="./assets/src_gsc/image/uni_img/USA/usa (3).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (7).jpg" class="img-fluid rounded-2"
-                alt="">
+              <img src="./assets/src_gsc/image/uni_img/Canada/canada (12).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/l1/populer_univer/populer_u_logo (6).jpg" class="img-fluid rounded-2"
-                alt="">
+              <img src="./assets/src_gsc/image/uni_img/Denmark/denmark (1).png" class="img-fluid rounded-2" alt="">
             </div>
           </div>
         </div>
@@ -164,3 +156,11 @@
 </main>
 
 <?php include "./pages/include/footer.php"; ?>
+
+
+
+
+
+
+
+

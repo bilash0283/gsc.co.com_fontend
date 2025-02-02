@@ -73,7 +73,7 @@
             </ul>
           </li>
           <li><a href="event.php" class="fw-semibold text-uppercase">EVENT</a></li>
-          <li><a href="https://gsc.co.com/apply-agent/portal/index.php" class="fw-semibold text-uppercase">Sign Up / Sing in</a></li>
+          <li><a href="https://ci-gsc.com" class="fw-semibold text-uppercase">Sign Up / Sing in</a></li>
           <!-- <li><a href="#contact" class="fw-semibold text-uppercase">login</a></li> -->
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>

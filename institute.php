@@ -9,7 +9,8 @@
                         <h1>Bring Diversity to your Campus</h1>
                         <p>Operating in 50+ Countries Global Study Contacts helps institutes diversify their campus with qualified students from all around the world</p>
                         <div class="d-flex">
-                            <input type="submit" name="btn" value="Partner With Us" class="reg_btn_hover text-white" >
+                        <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
+                        href="https://ci-gsc.com/" class="text-white">Partner With Us</a></button>
                         </div>
                     </div>
                     <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
