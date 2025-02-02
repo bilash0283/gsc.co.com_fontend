@@ -550,7 +550,20 @@ h6 {
   border-radius: 50px;
 }
 
+.reg_btn{
+  width:200px;
+  height: 50px;
+  border: 4px solid var(--accent-color);
+  background-color: white;
+  color: var(--accent-color);
 
+}
+.reg_btn_hover{
+  width:200px;
+  height: 50px;
+  border: none;
+  background-color: var(--accent-color);
+}
 
 
 
