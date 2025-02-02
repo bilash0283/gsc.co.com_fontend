@@ -9,7 +9,7 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/uk/uk (5).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/UK/uk (5).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
@@ -47,7 +47,7 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/canada/canada (13).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/Canada/canada (13).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
@@ -85,7 +85,7 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/usa/usa (4).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/USA/usa (4).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">

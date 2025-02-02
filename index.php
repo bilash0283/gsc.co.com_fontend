@@ -105,45 +105,45 @@
         </div>
         <div class="col-lg-6">
           <div class="row my-2">
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/Australia/australia (7).png" class="img-fluid rounded-2"
                 alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/uni_img/uk/uk (6).png" class="img-fluid rounded-2" alt="">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
+              <img src="./assets/src_gsc/image/uni_img/UK/uk (6).png" class="img-fluid rounded-2" alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/Australia/australia (4).png" class="img-fluid rounded-2" alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
             <img src="./assets/src_gsc/image/uni_img/Australia/australia (8).png" class="img-fluid rounded-2" alt="">
             </div>
           </div>
           <div class="row my-2">
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/Canada/canada (5).png" class="img-fluid rounded-2" alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/Canada/canada (1).png" class="img-fluid rounded-2" alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/UK/uk (1).png" class="img-fluid rounded-2" alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/uni_img/uk/uk (2).png" class="img-fluid rounded-2" alt="">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
+              <img src="./assets/src_gsc/image/uni_img/UK/uk (2).png" class="img-fluid rounded-2" alt="">
             </div>
           </div>
           <div class="row my-2">
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/USA/usa (1).png" class="img-fluid rounded-2" alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/USA/usa (3).png" class="img-fluid rounded-2" alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/Canada/canada (12).png" class="img-fluid rounded-2" alt="">
             </div>
-            <div class="col-lg-3 p-2 pt-lg-0">
+            <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/Denmark/denmark (1).png" class="img-fluid rounded-2" alt="">
             </div>
           </div>
