@@ -69,7 +69,6 @@
               <li><a href="index.php" class="fw-semibold text-uppercase">Study Abroad FAQ</a></li>
               <li><a href="index.php" class="fw-semibold text-uppercase">SOP IELTS GRE</a></li>
               <li><a href="index.php" class="fw-semibold text-uppercase">Agents Training</a></li>
-              <li><a href="index.php" class="fw-semibold text-uppercase">Events/Fairs</a></li>
             </ul>
           </li>
           <li><a href="event.php" class="fw-semibold text-uppercase">EVENT</a></li>
