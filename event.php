@@ -10,8 +10,8 @@
                     <div class="col-xl-9 text-center text-xl-center mx-auto">
                         <h1 class="text-white display-5 fw-semibold"><strong>GSC Events in 2025</strong></h1>
                         <p class="text-white">World’s Unique Educational Experience</p>
-                        <div class="col-xl-3 cta-btn-container text-center mx-auto">
-                            <button class=" border-none  fw-semibold reg_btn_hover text-white p-2 m-3">REGISTATION</button>
+                        <div class="col-xl-3 cta-btn-container text-center mx-auto mt-5">
+                            <a href="https://ci-gsc.com/" class=" border-none  fw-semibold reg_btn_hover text-white px-5 py-3 cursor-pointer">REGISTATION</a>
                         </div>
                     </div>
                 </div>
@@ -46,24 +46,24 @@
                 <h1 class="text-center"><strong>Our Previous Events</strong></h1>
                 <div class="row pt-5">
                     <div class="col-md-4 p-2">
-                        <img src="./assets/src_gsc/image/l3/event.jpg" class="rounded-3 img-fluid" alt="">
+                        <img src="./assets/src_gsc/image/events/event2024 (1).jpeg" class="rounded-3 img-fluid" alt="">
                     </div>
                     <div class="col-md-4 p-2">
-                        <img src="./assets/src_gsc/image/l3/event.jpg" class="rounded-3 img-fluid" alt="">
+                        <img src="./assets/src_gsc/image/events/event2024 (2).jpeg" class="rounded-3 img-fluid" alt="">
                     </div>
                     <div class="col-md-4 p-2">
-                        <img src="./assets/src_gsc/image/l3/event.jpg" class="rounded-3 img-fluid" alt="">
+                        <img src="./assets/src_gsc/image/events/event2024 (3).jpeg" class="rounded-3 img-fluid" alt="">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4 p-2">
-                        <img src="./assets/src_gsc/image/l3/event.jpg" class="rounded-3 img-fluid" alt="">
+                        <img src="./assets/src_gsc/image/events/event2024 (4).jpeg" class="rounded-3 img-fluid" alt="">
                     </div>
                     <div class="col-md-4 p-2">
-                        <img src="./assets/src_gsc/image/l3/event.jpg" class="rounded-3 img-fluid" alt="">
+                        <img src="./assets/src_gsc/image/events/event2024 (5).jpeg" class="rounded-3 img-fluid" alt="">
                     </div>
                     <div class="col-md-4 p-2">
-                        <img src="./assets/src_gsc/image/l3/event.jpg" class="rounded-3 img-fluid" alt="">
+                        <img src="./assets/src_gsc/image/events/event2024 (6).jpeg" class="rounded-3 img-fluid" alt="">
                     </div>
                 </div>
             </div>
