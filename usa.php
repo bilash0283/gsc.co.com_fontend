@@ -23,7 +23,7 @@
     </section><!-- /Hero Section -->
 
     <!-- Clients Section -->
-    <?php include "./pages/component/clients_section.php"; ?>
+    <?php include "./pages/component/usa/usa_clint_section.php"; ?>
     <!-- /Clients Section -->
 
     <!-- simple icon section -->
@@ -120,7 +120,7 @@
     <!-- image grid view  -->
 
   <!-- university Detaiils Section -->
-  <?php include "./pages/component/univ_details.php"; ?>
+  <?php include "./pages/component/usa/usa_university_details.php"; ?>
   <!-- /university Detaiils Section -->
 
     <!-- image grid view  -->

@@ -116,7 +116,7 @@
                                     <small class="bg-info px-2 py-1 rounded-1 text-primary m-2 text-small"
                                         style="font-size: 12px;"><i class="bi bi-geo-alt-fill"></i> Mayanmar
                                     </small>
-                                    <i class="bi bi-bookmark-fill text-info " style="font-size: 28px;"></i>
+                                    <i class="bi bi-bookmark text-info " style="font-size: 28px;"></i>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                                     <small class="bg-info px-2 py-1 rounded-1 text-primary m-2 text-small"
                                         style="font-size: 12px;"><i class="bi bi-geo-alt-fill"></i> Uruguay
                                     </small>
-                                    <i class="bi bi-bookmark-fill text-info " style="font-size: 28px;"></i>
+                                    <i class="bi bi-bookmark text-info " style="font-size: 28px;"></i>
                                 </div>
                             </div>
                         </div>
