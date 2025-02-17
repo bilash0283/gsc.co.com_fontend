@@ -15,7 +15,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="assets/src_gsc/image/l3/png/usa.png" class="img-fluid animated rounded-3" alt=""
+                    <img src="assets/src_gsc/image/l3/png/usa_Home_image.png" class="img-fluid animated rounded-3" alt=""
                         style="height:420px; float:right;">
                 </div>
             </div>
@@ -95,7 +95,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 ">
-                    <img src="./assets/src_gsc/image/l1/png/usa-content-1.png" class="img-fluid rounded-3" alt="">
+                    <img src="./assets/src_gsc/image/l3/png/usa_visa.png" class="img-fluid rounded-3" alt="">
                 </div>
                 <div class="col-md-6  d-flex flex-column justify-content-center align-items-center">
                     <div class="p-3">
