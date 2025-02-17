@@ -53,11 +53,12 @@
           <li class="dropdown"><a href="index.php"><span class="fw-semibold text-uppercase">Study Destinations</span> <i
                 class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-            <li><a href="usa.php" class="fw-semibold text-uppercase">USA</a></li>
-              <li><a href="uk.php" class="fw-semibold text-uppercase">UK</a></li>
-              <li><a href="canada.php" class="fw-semibold text-uppercase">CANADA</a></li>
+            <li>
               <li><a href="australia.php" class="fw-semibold text-uppercase">AUSTRALIA</a></li>
-              <li><a href="denmark.php" class="fw-semibold text-uppercase">DENMARK</a></li>
+              <li><a href="canada.php" class="fw-semibold text-uppercase">CANADA</a></li>
+              <li><a href="denmark.php" class="fw-semibold text-uppercase">DENMARK</a>
+              </li><a href="usa.php" class="fw-semibold text-uppercase">USA</a></li>
+              <li><a href="uk.php" class="fw-semibold text-uppercase">UK</a></li>
             </ul>
           </li>
           <li><a href="contacts.php" class="fw-semibold text-uppercase">CONTACT US</a></li>
