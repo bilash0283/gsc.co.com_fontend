@@ -1,12 +1,13 @@
 <?php include "./pages/include/header.php"; ?>
 
+
 <main class="main">
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
         <div class="container">
             <div class="row gy-4">
                 <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
-                    <h1 class="mb-3">Find the best Instituition in UK</h1>
+                    <h1 class="mb-3">Find the best Instituition in DENMARK</h1>
                     <div class="d-flex mt-5">
                         <input type="text" placeholder="Search Program......"
                             class="input-group border-none rounded-pill px-2 mx-2 bg-transparent">
@@ -14,21 +15,21 @@
                     </div>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="assets/src_gsc/image/l3/png/uk.png" class="img-fluid animated rounded-3"
-                        alt="" style="height:420px; float:right;">
+                    <img src="assets/src_gsc/image/l3/png/denmark.png" class="img-fluid animated rounded-3" alt=""
+                        style="height:420px; float:right;">
                 </div>
             </div>
         </div>
     </section><!-- /Hero Section -->
 
     <!-- Clients Section -->
-    <?php include "./pages/component/uk/uk_clint_section.php"; ?>
+    <?php include "./pages/component/Denmark/denmark_clint_section.php"; ?>
     <!-- /Clients Section -->
 
     <!-- simple icon section -->
     <section>
         <div class="container">
-            <h1 class="text-center fw-semibold">Why Study In UK</h1>
+            <h1 class="text-center fw-semibold">Why Study In DENMARK</h1>
             <div class="row mt-5">
 
                 <div class="col-md-3 d-flex flex-column justify-content-center align-items-center p-2 ">
@@ -66,7 +67,7 @@
                                 <img src="assets/src_gsc/image/l1/png/uk-icons-3.png" alt="">
                             </div>
                             <h5 class="mt-4 mb-2 fw-semibold">Cultural diversity</h5>
-                            <p class="text-muted blockquote mt-4">55+ Different cultures, races and ethnicities</p>
+                            <p class="text-muted blockquote mt-4">50+ Different cultures, races and ethnicities</p>
                         </div>
                     </div>
                 </div>
@@ -79,7 +80,7 @@
                                 <img src="assets/src_gsc/image/l1/png/uk-icons-4.png" alt="">
                             </div>
                             <h5 class="mt-4 mb-2 fw-semibold">Lively and vibrant campus life</h5>
-                            <p class="text-muted blockquote mt-4">120+ Clubs and Socities</p>
+                            <p class="text-muted blockquote mt-4">100+ Clubs and Socities</p>
                         </div>
                     </div>
                 </div>
@@ -94,11 +95,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 ">
-                    <img src="./assets/src_gsc/image/l1/png/usa-content-1.png" class="img-fluid" alt="">
+                    <img src="./assets/src_gsc/image/l3/png/std.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-6  d-flex flex-column justify-content-center align-items-center">
                     <div class="p-3">
-                        <h1 class="fw-semibold">How to Apply for UK</h1>
+                        <h1 class="fw-semibold">How to Apply for DENMARK</h1>
                         <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Apply for
                             Visa Online</h5>
                         <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Gather
@@ -110,7 +111,7 @@
                         <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Embassy
                             Interview</h5>
 
-                            <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
+                        <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
                             href="contacts.php" class="text-white">CONTACT US</a></button>
                     </div>
                 </div>
@@ -119,25 +120,25 @@
     </section>
     <!-- image grid view  -->
 
-  <!-- university Detaiils Section -->
-  <?php include "./pages/component/uk/uk_university_details.php"; ?>
-  <!-- /university Detaiils Section -->
+    <!-- university Detaiils Section -->
+    <?php include "./pages/component/Denmark/denmark_university_details.php"; ?>
+    <!-- /university Detaiils Section -->
 
     <!-- image grid view  -->
     <section>
         <div class="container">
             <div class="row">
                 <div class="col-md-6 ">
-                    <img src="./assets/src_gsc/image/l1/png/usa-content-2.png" class="img-fluid" alt="">
+                    <img src="./assets/src_gsc/image/l3/png/std-denmark.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-6  d-flex flex-column justify-content-center align-items-center">
                     <div class="p-3">
-                        <h5 class="my-4 text-primary">AWorried about job security in the competetive UK job market?
+                        <h5 class="my-4 text-primary">AWorried about job security in the competetive DENMARK job market?
                         </h5>
-                        <h1 class="fw-semibold">UK has some of the <br> best job opportunities <br> for students</h1>
+                        <h1 class="fw-semibold">DENMARK has some of the <br> best job opportunities <br> for students</h1>
                         <h5 class="my-4">Gather
-                            Half the students who work during term time earn more than $120 a week - and some earn up to
-                            $20,100 a year</h5>
+                            Half the students who work during term time earn more than $100 a week - and some earn up to
+                            $20,000 a year</h5>
 
                             <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
                             href="contacts.php" class="text-white">CONTACT US</a></button>

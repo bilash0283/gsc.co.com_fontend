@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
                     <img src="assets/src_gsc/image/l3/png/usa.png" class="img-fluid animated rounded-3" alt=""
-                        style="height:320px; float:right;">
+                        style="height:420px; float:right;">
                 </div>
             </div>
         </div>
@@ -111,7 +111,8 @@
                         <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Embassy
                             Interview</h5>
 
-                        <a href="contacts.php" class="reg_btn_hover text-white mt-5 px-5 py-3" href="#">CONTACT US</a>
+                        <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
+                            href="contacts.php" class="text-white">CONTACT US</a></button>
                     </div>
                 </div>
             </div>
@@ -139,7 +140,8 @@
                             Half the students who work during term time earn more than $100 a week - and some earn up to
                             $20,000 a year</h5>
 
-                        <button class="reg_btn_hover text-white mt-3" href="#">CONTACT US</button>
+                            <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
+                            href="contacts.php" class="text-white">CONTACT US</a></button>
                     </div>
                 </div>
             </div>

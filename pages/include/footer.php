@@ -80,11 +80,11 @@
       <div class="col-lg-2 col-md-3 footer-links">
         <h4>Countries</h4>
         <ul>
-          <li><i class="bi bi-chevron-right"></i> <a href="#" class="text-uppercase">UK</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#" class="text-uppercase">USA</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#" class="text-uppercase">Europe</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#" class="text-uppercase">CANADA</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#" class="text-uppercase">Australia</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="australia.php" class="text-uppercase">AUSTRALIA</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="canada.php" class="text-uppercase">CANADA</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="denmark.php" class="text-uppercase">DENMARK</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="usa.php" class="text-uppercase">USA</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="uk.php" class="text-uppercase">UK</a></li>
         </ul>
       </div>
 
