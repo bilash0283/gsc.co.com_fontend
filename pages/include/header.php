@@ -54,7 +54,7 @@
                 class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
             <li><a href="usa.php" class="fw-semibold text-uppercase">USA</a></li>
-              <li><a href="index.php" class="fw-semibold text-uppercase">UK</a></li>
+              <li><a href="uk.php" class="fw-semibold text-uppercase">UK</a></li>
               <li><a href="usa.php" class="fw-semibold text-uppercase">CANADA</a></li>
               <li><a href="index.php" class="fw-semibold text-uppercase">AUSTRALIA</a></li>
               <li><a href="usa.php" class="fw-semibold text-uppercase">EUROPE</a></li>

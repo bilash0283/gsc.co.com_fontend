@@ -9,13 +9,13 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/USA/usa (1).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/UK/uk (1).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Winona State University</h6>
+                <h6 class="py-2">London Metropolitan University</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> UK</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-briefcase-fill mr-2"></i> Ranking 81/5</span> <br>
@@ -47,19 +47,19 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/USA/usa (2).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/UK/uk (2).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Wichita State University</h6>
+                <h6 class="py-2">Bloomsbury Institute London</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> UK</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-briefcase-fill mr-2"></i> Ranking 3.4/5</span> <br>
 
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
-                    class="bi bi-currency-dollar mr-2"></i> Average Annual Fee: $14k-19k</span> <br>
+                    class="bi bi-currency-dollar mr-2"></i> Average Annual Fee: $14k-18k</span> <br>
 
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-bank"></i> Accomodation</span>
@@ -85,13 +85,13 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/USA/usa (4).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/UK/uk (3).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Middle Tennessee State University</h6>
+                <h6 class="py-2">De Montfort University (DMU) Leicester</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> UK</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-briefcase-fill mr-2"></i> Ranking 3.9/5</span> <br>
@@ -125,19 +125,19 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/USA/usa (3).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/UK/uk (4).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Trine University</h6>
+                <h6 class="py-2">University of Wolverhampton</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> UK</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-briefcase-fill mr-2"></i> Ranking 3.9/5</span> <br>
 
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
-                    class="bi bi-currency-dollar mr-2"></i> Average Annual Fee: $14k-19k</span> <br>
+                    class="bi bi-currency-dollar mr-2"></i> Average Annual Fee: $15k-20k</span> <br>
 
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-bank"></i> Accomodation</span>
@@ -163,13 +163,13 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/USA/usa (6).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/UK/uk (5).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Gannon University</h6>
+                <h6 class="py-2">Ulster University</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> UK</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-briefcase-fill mr-2"></i> Ranking 3.8/2</span> <br>
@@ -201,13 +201,13 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/USA/usa (8).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/UK/uk (6).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Tiffin University</h6>
+                <h6 class="py-2">University of Winchester</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
-                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> USA</span>
+                  style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> UK</span>
 
                 <span class="text-small bg-danger py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-briefcase-fill mr-2"></i> Ranking 3.4/1</span> <br>
