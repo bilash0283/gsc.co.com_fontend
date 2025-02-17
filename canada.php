@@ -128,7 +128,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 ">
-                    <img src="./assets/src_gsc/image/l1/png/usa-content-2.png" class="img-fluid" alt="">
+                    <img src="./assets/src_gsc/image/l3/png/std.png" class="img-fluid rounded-3" alt="">
                 </div>
                 <div class="col-md-6  d-flex flex-column justify-content-center align-items-center">
                     <div class="p-3">
