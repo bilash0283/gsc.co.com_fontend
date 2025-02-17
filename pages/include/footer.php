@@ -70,10 +70,10 @@
       <div class="col-lg-2 col-md-3 footer-links">
         <h4>Our Services</h4>
         <ul>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Students</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Institutes</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Agents</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Service Providers</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="student.php">Students</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="institute.php">Institutes</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="agent.php">Agents</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="institute.php">Service Providers</a></li>
         </ul>
       </div>
 

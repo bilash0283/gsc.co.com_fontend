@@ -47,7 +47,7 @@
               <li><a href="student.php" class="fw-semibold text-uppercase">STUDENTS</a></li>
               <li><a href="institute.php" class="fw-semibold text-uppercase">INSTITUTES</a></li>
               <li><a href="agent.php" class="fw-semibold text-uppercase">AGENTS</a></li>
-              <li><a href="#" class="fw-semibold text-uppercase">SERVICE PROVIDERS</a></li>
+              <li><a href="institute.php" class="fw-semibold text-uppercase">SERVICE PROVIDERS</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="index.php"><span class="fw-semibold text-uppercase">Study Destinations</span> <i
