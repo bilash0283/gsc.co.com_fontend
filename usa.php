@@ -100,16 +100,16 @@
                 <div class="col-md-6  d-flex flex-column justify-content-center align-items-center">
                     <div class="p-3">
                         <h1 class="fw-semibold">How to Apply for USA</h1>
-                        <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Apply for
-                            Visa Online</h5>
-                        <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Gather
-                            Passport</h5>
-                        <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i>
-                            Non-immigrant Visa Application,</h5>
-                        <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i>
-                            Certificate of elligibility for Non-immigrant</h5>
-                        <h5 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Embassy
-                            Interview</h5>
+                        <h6 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Apply for
+                            Visa Online</h6>
+                        <h6 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Gather
+                            Passport</h6>
+                        <h6 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i>
+                            Non-immigrant Visa Application,</h6>
+                        <h6 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i>
+                            Certificate of elligibility for Non-immigrant</h6>
+                        <h6 class="my-4"><i class="bi bi-check2-circle text-success fw-semibold p-2"></i> Embassy
+                            Interview</h6>
 
                         <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
                             href="contacts.php" class="text-white">CONTACT US</a></button>
@@ -135,10 +135,10 @@
                     <div class="p-3">
                         <h5 class="my-4 text-primary">AWorried about job security in the competetive USA job market?
                         </h5>
-                        <h1 class="fw-semibold">USA has some of the <br> best job opportunities <br> for students</h1>
-                        <h5 class="my-4">Gather
+                        <h2 class="fw-semibold">USA has some of the <br> best job opportunities <br> for students</h2>
+                        <h6 class="my-4">Gather
                             Half the students who work during term time earn more than $100 a week - and some earn up to
-                            $20,000 a year</h5>
+                            $20,000 a year</h6>
 
                             <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
                             href="contacts.php" class="text-white">CONTACT US</a></button>
