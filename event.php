@@ -175,8 +175,6 @@
 </main>
 
 
-
-
 <script>
     function showModal(element) 
     {
@@ -184,3 +182,6 @@
     }
 </script>
 <?php include "./pages/include/footer.php"; ?>
+
+
+
