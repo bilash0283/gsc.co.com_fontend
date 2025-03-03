@@ -112,10 +112,8 @@
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-xl-9 text-center text-xl-start">
-            <h3>Login Our Protal</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-              laborum.</p>
+            <h3 class="text-white">Login Our Protal</h3>
+            <p class="text-white">Welcom our Agent protal . Please Registation and Login Our Protal then you start B2B Business in Student Contalsency.</p>
           </div>
           <div class="col-xl-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="https://ci-gsc.com/">Login Protal</a>
