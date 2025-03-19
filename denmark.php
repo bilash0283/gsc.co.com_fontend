@@ -121,7 +121,7 @@
     <!-- image grid view  -->
 
     <!-- university Detaiils Section -->
-    <?php include "./pages/component/Denmark/denmark_university_details.php"; ?>
+    <?php include "./pages/component/denmark/denmark_university_details.php"; ?>
     <!-- /university Detaiils Section -->
 
     <!-- image grid view  -->
