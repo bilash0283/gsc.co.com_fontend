@@ -108,7 +108,7 @@
                     <h1 class="text-white"><strong>Register to GSC Events in 2025:</strong></h1>
                     <p class="text-white">Fill in the registration form to express your interest in GSC events
                         planned for 2025. GSC Team will contact you shortly.</p>
-                    <form action="#">
+                    <form action="pages/event_data.php" method="POST">
                         <div class="row">
                             <div class="col-md-6">
                                 <div>
@@ -117,8 +117,8 @@
                                         placeholder="Full Name">
                                 </div>
                                 <div>
-                                    <label for="eamil">E-mail</label>
-                                    <input type="email" class="form-control my-1 " id="email" name="eamil"
+                                    <label for="email">E-mail</label>
+                                    <input type="email" class="form-control my-1 " id="email" name="email"
                                         placeholder="Enter E-mail">
                                 </div>
                                 <div>
