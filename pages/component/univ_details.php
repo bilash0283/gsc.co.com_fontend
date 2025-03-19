@@ -38,7 +38,7 @@
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-pc-display"></i> Work While Studying</span> <br>
 
-                <button class="btn btn-info text-white btn-sm mt-4">Apply Now</button>
+                <a href="https://ci-gsc.com/" class="btn btn-info text-white btn-sm mt-4">Apply Now</a>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-pc-display"></i> Work While Studying</span> <br>
 
-                <button class="btn btn-info text-white btn-sm mt-4">Apply Now</button>
+                <a href="https://ci-gsc.com/" class="btn btn-info text-white btn-sm mt-4">Apply Now</a>
               </div>
             </div>
           </div>
@@ -114,7 +114,7 @@
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-pc-display"></i> Work While Studying</span> <br>
 
-                <button class="btn btn-info text-white btn-sm mt-4">Apply Now</button>
+                <a href="https://ci-gsc.com/" class="btn btn-info text-white btn-sm mt-4">Apply Now</a>
               </div>
             </div>
           </div>
@@ -154,7 +154,7 @@
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-pc-display"></i> Work While Studying</span> <br>
 
-                <button class="btn btn-info text-white btn-sm mt-4">Apply Now</button>
+                <a href="https://ci-gsc.com/" class="btn btn-info text-white btn-sm mt-4">Apply Now</a>
               </div>
             </div>
           </div>
@@ -192,7 +192,7 @@
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-pc-display"></i> Work While Studying</span> <br>
 
-                <button class="btn btn-info text-white btn-sm mt-4">Apply Now</button>
+                <a href="https://ci-gsc.com/" class="btn btn-info text-white btn-sm mt-4">Apply Now</a>
               </div>
             </div>
           </div>
@@ -230,7 +230,7 @@
                 <span class="text-small bg-success py-1 px-2 rounded-2 text-white" style="font-size: 10px;"><i
                     class="bi bi-pc-display"></i> Work While Studying</span> <br>
 
-                <button class="btn btn-info text-white btn-sm mt-4">Apply Now</button>
+                <a href="https://ci-gsc.com/" class="btn btn-info text-white btn-sm mt-4">Apply Now</a>
               </div>
             </div>
           </div>
