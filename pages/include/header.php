@@ -42,7 +42,6 @@
   <!-- LinkedIn (Uses Open Graph) -->
   <meta property="og:see_also" content="https://www.linkedin.com/company/global-study-contacts-gsc/">
 
-
   <!-- Favicons -->
   <link rel="icon" href="assets/src_gsc/bg_logo.ico" type="image/x-icon">
 

@@ -11,7 +11,7 @@
           <div class="service-item position-relative rounded-3">
             <a href="https://ci-gsc.com/">
               <div class="icon">
-                <img src="./assets/src_gsc/image/svg/icon_1_q6v9fb.svg" class="img-fluid p-4" alt="">
+                <img src="./assets/src_gsc/image/svg/icon_1_q6v9fb.svg" class="img-fluid p-4" alt="GSC - Global Study Contacts">
               </div>
               <h4 class="text-center">
                 <a href="https://ci-gsc.com/" class="stretched-link">Students</a>
@@ -25,7 +25,7 @@
           <div class="service-item position-relative rounded-3">
             <a href="https://ci-gsc.com/">
               <div class="icon">
-                <img src="./assets/src_gsc/image/svg/icon_2_x3hthy.svg" class="img-fluid p-4" alt="">
+                <img src="./assets/src_gsc/image/svg/icon_2_x3hthy.svg" class="img-fluid p-4" alt="GSC - Global Study Contacts">
               </div>
               <h4 class="text-center">
                 <a href="https://ci-gsc.com/" class="stretched-link">Institutes</a>
@@ -40,7 +40,7 @@
           <div class="service-item position-relative rounded-3">
             <a href="https://ci-gsc.com/">
               <div class="icon">
-                <img src="./assets/src_gsc/image/svg/icon_3_boelcg.svg" class="img-fluid p-4" alt="">
+                <img src="./assets/src_gsc/image/svg/icon_3_boelcg.svg" class="img-fluid p-4" alt="GSC - Global Study Contacts">
               </div>
               <h4 class="text-center">
                 <a href="https://ci-gsc.com/" class="stretched-link">Agents</a>
@@ -55,7 +55,7 @@
           <div class="service-item position-relative rounded-3">
             <a href="https://ci-gsc.com/">
               <div class="icon">
-                <img src="./assets/src_gsc/image/svg/iconv_5_kl6l6s.svg" class="img-fluid p-4" alt="">
+                <img src="./assets/src_gsc/image/svg/iconv_5_kl6l6s.svg" class="img-fluid p-4" alt="GSC - Global Study Contacts">
               </div>
               <h4 class="text-center">
               <a href="https://ci-gsc.com/" class="stretched-link">Service Provider</a>
