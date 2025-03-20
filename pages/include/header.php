@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Global Study Contacts</title>
-  <meta name="description" content="">
-  <meta name="keywords" content="">
+  <meta name="description" content="Global Study Contacts offers education consultancy,study abroad, visa processing, job scouting, and more to help you start your academic journey abroad,GSC,Student Visa Processing.">
+  <meta name="keywords" content="GSC, Global Study Contacts, study abroad, student visa, visa processing, education consultancy, job scouting, overseas education, international study, scholarship assistance, academic counseling, study visa application, study in USA, study in Canada, study in UK, study in Cyprus, study in Denmark, study in Australia, immigration support, university admission guidance, foreign education, international student support, higher education consultancy, student visa consultant, abroad education programs, best study destinations, visa application assistance, global university admission, student scholarship opportunities">
+  <meta name="google-site-verification" content="LcfL3ykQzogmP5PldMsiNHqMACOB_KJ_ukt2EAURdUU" />
 
   <!-- Favicons -->
-  <link href="assets/src_gsc/favicon2.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link rel="icon" href="assets/src_gsc/bg_logo.ico" type="image/x-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -83,7 +83,7 @@
             </ul>
           </li>
           <li><a href="event.php" class="fw-semibold text-uppercase">EVENT</a></li>
-          <li><a href="https://ci-gsc.com" class="fw-semibold text-uppercase">Sign Up / Sing in</a></li>
+          <li><a href="https://ci-gsc.com" class="fw-semibold text-uppercase">Sign Up / Sign in</a></li>
           <!-- <li><a href="#contact" class="fw-semibold text-uppercase">login</a></li> -->
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
