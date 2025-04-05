@@ -3,7 +3,7 @@
         <div class="card m-2">
             <div class="card-body bg-light">
                 <div class="d-flex justify-content-between align-items-center">
-                    <img src="assets/src_gsc/image/uni_img/Canada/canada (1).png" class="img-fluid rounded-2" alt=""
+                    <img src="assets/src_gsc/image/uni_img/Canada/canada (1).png" class="img-fluid rounded-2" alt="GSC - Global Study Contacts"
                         style="width:100px; height: 100px;">
                     <h4 style="margin-left: 20px;">University of Canada West</h4>
                 </div>
@@ -22,7 +22,7 @@
         <div class="card m-2">
             <div class="card-body bg-light">
                 <div class="d-flex justify-content-between align-items-center">
-                    <img src="assets/src_gsc/image/uni_img/Denmark/denmark (3).png" class="img-fluid rounded-2" alt=""
+                    <img src="assets/src_gsc/image/uni_img/Denmark/denmark (3).png" class="img-fluid rounded-2" alt="GSC - Global Study Contacts"
                         style="width:100px; height: 100px;">
                     <h4 style="margin-left: 20px;">International Business Academy</h4>
                 </div>
@@ -41,7 +41,7 @@
         <div class="card m-2">
             <div class="card-body bg-light">
                 <div class="d-flex justify-content-between align-items-center">
-                    <img src="assets/src_gsc/image/uni_img/Ireland/Ireland (3).png" class="img-fluid rounded-2" alt=""
+                    <img src="assets/src_gsc/image/uni_img/Ireland/Ireland (3).png" class="img-fluid rounded-2" alt="GSC - Global Study Contacts"
                         style="width:100px; height: 100px;">
                     <h4 style="margin-left: 20px;">Technological University Dublin</h4>
                 </div>
@@ -63,7 +63,7 @@
             <div class="card-body bg-light">
                 <div class="d-flex justify-content-between align-items-center">
                     <img src="assets/src_gsc/image/uni_img/Australia/australia (7).png" class="img-fluid rounded-2"
-                        alt="" style="width:100px; height: 100px;">
+                        alt="GSC - Global Study Contacts" style="width:100px; height: 100px;">
                     <h4 style="margin-left: 20px;">AIBI Higher Education</h4>
                 </div>
                 <div class="d-flex justify-content-between align-items-center mt-5">
@@ -81,7 +81,7 @@
         <div class="card m-2">
             <div class="card-body bg-light">
                 <div class="d-flex justify-content-between align-items-center">
-                    <img src="assets/src_gsc/image/uni_img/UK/uk (5).png" class="img-fluid rounded-2" alt=""
+                    <img src="assets/src_gsc/image/uni_img/UK/uk (5).png" class="img-fluid rounded-2" alt="GSC - Global Study Contacts"
                         style="width:100px; height: 100px;">
                     <h4 style="margin-right: 60px;">Ulster University</h4>
                 </div>
@@ -101,7 +101,7 @@
             <div class="card-body bg-light">
                 <div class="d-flex justify-content-between align-items-center">
                     <img src="assets/src_gsc/image/uni_img/Australia/australia (4).png" class="img-fluid rounded-2"
-                        alt="" style="width:100px; height: 100px;">
+                        alt="GSC - Global Study Contacts" style="width:100px; height: 100px;">
                     <h4 style="margin-left: 20px;">Asia Pacific International College</h4>
                 </div>
                 <div class="d-flex justify-content-between align-items-center mt-5">

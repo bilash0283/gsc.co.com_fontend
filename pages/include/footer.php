@@ -40,7 +40,7 @@
 
       <div class="col-lg-4 col-md-6 footer-about">
         <a href="index.php" class="d-flex align-items-center">
-          <img src="./assets/src_gsc/favicon2.png" alt="" class="img-fluid mx-auto" style="width:120px;height: 120px;">
+          <img src="assets/src_gsc/favicon2.png" alt="" class="img-fluid mx-auto" style="width:120px;height: 120px;">
         </a>
         <div class="row">
           <div class="col-md-6 my-2">
