@@ -25,7 +25,7 @@
             <h1 class="text-uppercase text-center"><strong>our business model</strong></h1>
             <div class="row  text-center pt-4">
                 <div class="col-md-4 gap-5 ">
-                    <i class="bi bi-people fs-3"></i>
+                    <i class="bi bi-people fs-3 "></i>
                     <h5 class="my-3"><strong>B2B</strong></h5>
                 </div>
                 <div class="col-md-4">
