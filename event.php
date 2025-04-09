@@ -25,15 +25,15 @@
             <h1 class="text-uppercase text-center"><strong>our business model</strong></h1>
             <div class="row  text-center pt-4">
                 <div class="col-md-4 gap-5">
-                    <i class="bi bi-people fs-3 " style="padding: 10px 15px;border-radius: 50%;border: 4px solid #47b2e4;"></i>
+                    <i class="bi bi-people fs-3 " style="padding: 10px 15px;border-radius: 50%;border: 3px solid #47b2e4;"></i>
                     <h5 class="my-3"><strong>B2B</strong></h5>
                 </div>
                 <div class="col-md-4">
-                    <i class="bi bi-globe fs-3" style="padding: 10px 15px;border-radius: 50%;border: 4px solid #47b2e4;"></i>
+                    <i class="bi bi-globe fs-3" style="padding: 10px 15px;border-radius: 50%;border: 3px solid #47b2e4;"></i>
                     <h5 class="my-3"><strong>B2C</strong></h5>
                 </div>
                 <div class="col-md-4">
-                    <i class="bi bi-bullseye fs-3 " style="padding: 10px 15px;border-radius: 50%;border: 4px solid #47b2e4;"></i>
+                    <i class="bi bi-bullseye fs-3 " style="padding: 10px 15px;border-radius: 50%;border: 3px solid #47b2e4;"></i>
                     <h5 class="my-3"><strong>School Visits</strong></h5>
                 </div>
             </div>
@@ -114,28 +114,28 @@
                                 <div>
                                     <label for="name">Name</label>
                                     <input type="text" class="form-control my-1 " id="name" name="name"
-                                        placeholder="Full Name">
+                                        placeholder="Full Name" required>
                                 </div>
                                 <div>
                                     <label for="email">E-mail</label>
                                     <input type="email" class="form-control my-1 " id="email" name="email"
-                                        placeholder="Enter E-mail">
+                                        placeholder="Enter E-mail" required>
                                 </div>
                                 <div>
                                     <label for="phone">Phone</label>
                                     <input type="text" class="form-control my-1 " id="phone" name="phone"
-                                        placeholder="Phone Number">
+                                        placeholder="Phone Number" required>
                                 </div>
                                 <div>
                                     <label for="Institute">Institute</label>
                                     <input type="text" class="form-control my-1 " id="Institute" name="Institute"
-                                        placeholder="Institute Name">
+                                        placeholder="Institute Name" required>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div>
                                     <label for="Institute_type">Institute Type</label>
-                                    <select name="Institute_type" id="Institute_type" class="form-control my-1">
+                                    <select name="Institute_type" id="Institute_type" class="form-control my-1" required>
                                         <option value="">--Please choose an option--</option>
                                         <option value="Educational institution (university, college, school, etc.)">
                                             Educational institution (university, college, school, etc.)</option>
@@ -146,11 +146,11 @@
                                 <div>
                                     <label for="country">Country</label>
                                     <input type="text" class="form-control my-1 " id="country" name="country"
-                                        placeholder="Country Name">
+                                        placeholder="Country Name" required>
                                 </div>
                                 <div>
                                     <label for="destinations">Choose your destinations</label>
-                                    <select name="destinations" id="destinations" class="form-control">
+                                    <select name="destinations" id="destinations" class="form-control" required>
                                         <option value="">--Select your Destinations--</option>
                                         <option value="USA">USA</option>
                                         <option value="UK">UK</option>
@@ -162,7 +162,7 @@
                             <div>
                                 <label for="message">Message</label>
                                 <textarea name="message" id="message" class="form-control" placeholder="Message"
-                                    rows="10"></textarea>
+                                    rows="10" required></textarea>
                             </div>
                         </div>
                         <button type="submit" class="reg_btn_hover text-white my-3" name="btn">Send <i

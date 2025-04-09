@@ -12,10 +12,7 @@ if (isset($_POST['btn'])) {
     $message        = $_POST['message'];
 
 
-    if(!empty($name)){
-        echo $name;
-        header('index.php'.$name);
-    }
+    print_r($_POST['btn']);
   
 }
 
