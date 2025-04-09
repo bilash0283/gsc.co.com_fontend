@@ -105,7 +105,7 @@
         <div class="container">
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
                 <div class="col-xl-12 text-white mx-auto">
-                    <h1 class="text-white"><strong>Register to GSC Events in 2025:</strong></h1>
+                    <h1 class="text-white"><strong>Register to GSC Events in 2025</strong></h1>
                     <p class="text-white">Fill in the registration form to express your interest in GSC events
                         planned for 2025. GSC Team will contact you shortly.</p>
                     <form action="pages/event/event_data.php" method="POST">
