@@ -108,7 +108,7 @@
                     <h1 class="text-white"><strong>Register to GSC Events in 2025:</strong></h1>
                     <p class="text-white">Fill in the registration form to express your interest in GSC events
                         planned for 2025. GSC Team will contact you shortly.</p>
-                    <form action="pages/event_data.php" method="POST">
+                    <form action="pages/event/event_data.php" method="POST">
                         <div class="row">
                             <div class="col-md-6">
                                 <div>
