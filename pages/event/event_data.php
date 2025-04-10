@@ -12,7 +12,9 @@ if (isset($_POST['btn'])) {
     $message        = $_POST['message'];
 
 
-    print_r($_POST['btn']);
+    echo "<pre>";
+    print_r($_POST);
+    echo "<pre>";
   
 }
 
