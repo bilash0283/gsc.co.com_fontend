@@ -323,10 +323,28 @@
 </main>
 
 <?php 
+    $db = mysqli_connect('localhost','root','','gsc');
 
-echo "<pre>";
-    print_r($_POST);
-    echo "<pre>";
+    
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $Institute = $_POST['Institute'];
+    $Institute_type = $_POST['Institute_type'];
+    $country = $_POST['country'];
+    $destinations = $_POST['destinations'];
+
+    $sql = "INSERT INTO event (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
+
+    $res = mysqli_query($db,$sql);
+
+    if($res)
+    {
+        echo "Event Register Successfully";
+    }else{
+        dir("Event Register Failed".$db);
+    }
+    
 
 ?>
 
