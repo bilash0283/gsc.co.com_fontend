@@ -28,7 +28,7 @@
                 <img src="./assets/src_gsc/image/svg/icon_2_x3hthy.svg" class="img-fluid p-4" alt="GSC - Global Study Contacts">
               </div>
               <h4 class="text-center">
-                <a href="Institutes.php" class="stretched-link">Institutes</a>
+                <a href="Institutes_services.php" class="stretched-link">Institutes</a>
               </h4>
               <p class="text-center fw-light">300+ Affiliations</p>
             </a>
