@@ -11,7 +11,7 @@
                     <h1 class="text-white display-5 fw-semibold"><strong>GSC Events in 2025</strong></h1>
                     <p class="text-white">World’s Unique Educational Experience</p>
                     <div class="col-xl-3 cta-btn-container text-center mx-auto mt-5">
-                        <a href="https://ci-gsc.com/"
+                        <a href="#event_register"
                             class=" border-none  fw-semibold reg_btn_hover text-white px-5 py-3 cursor-pointer">REGISTATION</a>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
     <!-- Modal -->
 
     <!-- Call To Action Section -->
-    <section id="call-to-action" class="call-to-action">
+    <section id="event_register" class="call-to-action">
         <img src="assets/src_gsc/image/l3/overley_img.jpg" alt="">
         <div class="container">
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
@@ -462,27 +462,27 @@
 </main>
 
 <?php 
-    $db = mysqli_connect('localhost','root','','gsc');
+    // $db = mysqli_connect('localhost','root','','gsc');
 
     
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $phone = $_POST['phone'];
-    $Institute = $_POST['Institute'];
-    $Institute_type = $_POST['Institute_type'];
-    $country = $_POST['country'];
-    $destinations = $_POST['destinations'];
+    // $name = $_POST['name'];
+    // $email = $_POST['email'];
+    // $phone = $_POST['phone'];
+    // $Institute = $_POST['Institute'];
+    // $Institute_type = $_POST['Institute_type'];
+    // $country = $_POST['country'];
+    // $destinations = $_POST['destinations'];
 
-    $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
+    // $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
 
-    $res = mysqli_query($db,$sql);
+    // $res = mysqli_query($db,$sql);
 
-    if($res)
-    {
-        echo "Event Register Successfully";
-    }else{
-        dir("Event Register Failed".$db);
-    }
+    // if($res)
+    // {
+    //     echo "Event Register Successfully";
+    // }else{
+    //     dir("Event Register Failed".$db);
+    // }
     
 
 ?>
