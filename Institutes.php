@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 mx-auto">
-                <img src="./assets/src_gsc/updradin.jpg" alt="" class="img-fluid mt-5 py-5">
+                <img src="./assets/src_gsc/updradin.jpg" alt="" class="img-fluid mt-5 pt-5">
             </div>
         </div>
     </div>
