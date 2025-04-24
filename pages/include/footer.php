@@ -122,7 +122,7 @@
 <script src="assets/js/main.js"></script>
 
 <!-- script for copy and inspact disabled  -->
-<script>
+<!-- <script>
   // Right Click Disable
   document.addEventListener('contextmenu', event => event.preventDefault());
 
@@ -154,7 +154,7 @@
 
   // Prevent Dragging (for image and text selection)
   document.addEventListener("dragstart", event => event.preventDefault());
-</script>
+</script> -->
 
 </body>
 
