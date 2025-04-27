@@ -461,8 +461,10 @@
 </main>
 
 <?php 
+    // database file connected 
     $db = mysqli_connect('localhost','root','','gsc');
 
+    // all input fild data rechive from 
     $name = $_POST['name'];
     $email = $_POST['email'];
     $phone = $_POST['phone'];
@@ -476,7 +478,7 @@
     $res = mysqli_query($db,$sql);
 
     if(isset($_POST['btn'])){
-        print_r($_POST['btn']);
+        // print_r($_POST['btn']);
     }
     
 
@@ -488,3 +490,8 @@
     }
 </script>
 <?php include "./pages/include/footer.php"; ?>
+
+
+
+
+
