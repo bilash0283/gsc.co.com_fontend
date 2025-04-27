@@ -1,6 +1,5 @@
 <?php include "./pages/include/header.php"; ?>
 
-
 <main class="main">
     <!-- Call To Action Section -->
     <section id="call-to-action" class="call-to-action dark-background" style="margin-top: 98px;">
@@ -462,27 +461,23 @@
 </main>
 
 <?php 
-    // $db = mysqli_connect('localhost','root','','gsc');
+    $db = mysqli_connect('localhost','root','','gsc');
 
-    
-    // $name = $_POST['name'];
-    // $email = $_POST['email'];
-    // $phone = $_POST['phone'];
-    // $Institute = $_POST['Institute'];
-    // $Institute_type = $_POST['Institute_type'];
-    // $country = $_POST['country'];
-    // $destinations = $_POST['destinations'];
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $Institute = $_POST['Institute'];
+    $Institute_type = $_POST['Institute_type'];
+    $country = $_POST['country'];
+    $destinations = $_POST['destinations'];
 
-    // $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
+    $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
 
-    // $res = mysqli_query($db,$sql);
+    $res = mysqli_query($db,$sql);
 
-    // if($res)
-    // {
-    //     echo "Event Register Successfully";
-    // }else{
-    //     dir("Event Register Failed".$db);
-    // }
+    if(isset($_POST['btn'])){
+        print_r($_POST['btn']);
+    }
     
 
 ?>
