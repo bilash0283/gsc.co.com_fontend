@@ -464,19 +464,15 @@
     // database file connected 
     $db = mysqli_connect('localhost','root','','gsc');
 
-        if(isset($_POST['btn'])){
-            // all input fild data rechive from 
-            echo "<pre>";
-            print_r($_POST['btn']);
-            echo "</pre>";
+    if(isset($_POST['btn'])){
 
-        $name = $_POST['name'];
-        $email = $_POST['email'];
-        $phone = $_POST['phone'];
-        $Institute = $_POST['Institute'];
-        $Institute_type = $_POST['Institute_type'];
-        $country = $_POST['country'];
-        $destinations = $_POST['destinations'];
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $Institute = $_POST['Institute'];
+    $Institute_type = $_POST['Institute_type'];
+    $country = $_POST['country'];
+    $destinations = $_POST['destinations'];
 
         $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
 
