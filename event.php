@@ -464,6 +464,10 @@
     // database file connected 
     $db = mysqli_connect('localhost','root','','gsc');
 
+    if(isset($_POST['btn'])){
+        
+    }
+
     // all input fild data rechive from 
     $name = $_POST['name'];
     $email = $_POST['email'];
@@ -477,11 +481,8 @@
 
     $res = mysqli_query($db,$sql);
 
-    if(isset($_POST['btn'])){
-        // print_r($_POST['btn']);
-    }
+   
     
-
 
     
 
