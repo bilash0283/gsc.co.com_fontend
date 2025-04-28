@@ -148,7 +148,7 @@
                                 <div>
                                     <label for="inputProjectLeader">Nationality <span
                                             class="text-white">*</span></label>
-                                    <select name="country" id="inputProjectLeader" class="form-control text-uppercase" required>
+                                    <select name="country" id="inputProjectLeader" class="form-control" required>
                                         <option value="Afghanistan">Afghanistan</option>
                                         <option value="Albania">Albania</option>
                                         <option value="Algeria">Algeria</option>
@@ -466,6 +466,10 @@
 
         if(isset($_POST['btn'])){
             // all input fild data rechive from 
+            echo "<pre>";
+            print_r($_POST['btn']);
+            echo "</pre>";
+
         $name = $_POST['name'];
         $email = $_POST['email'];
         $phone = $_POST['phone'];
