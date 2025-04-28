@@ -465,7 +465,6 @@
     $db = mysqli_connect('localhost','root','','gsc');
 
     if(isset($_POST['btn'])){
-
     $name = $_POST['name'];
     $email = $_POST['email'];
     $phone = $_POST['phone'];
@@ -474,15 +473,30 @@
     $country = $_POST['country'];
     $destinations = $_POST['destinations'];
 
-        $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
+    $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
+    $res = mysqli_query($db,$sql);
 
-        $res = mysqli_query($db,$sql);
+    if ($res) {
+        echo '
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            Regstation Successfull!
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        ';
+    } else {
+        echo '
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            Registation Failed!
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        ';
+    }
 
-        if($res){
-            echo "Registation Successfull";
-        }else{
-            echo "Registation Faild";
-        }
+
     }
     
 
