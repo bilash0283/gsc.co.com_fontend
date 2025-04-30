@@ -106,10 +106,7 @@
         <img src="assets/src_gsc/image/l3/overley_img.jpg" alt="">
         <div class="container">
             <?php 
-                if(isset($_GET['success'])){
-                    
-                    echo "<div class='alart alart-success'>Registation Successfull</div>";
-                }
+               
             ?>
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
                 <div class="col-xl-12 text-white mx-auto">
