@@ -105,6 +105,12 @@
     <section id="event_register" class="call-to-action">
         <img src="assets/src_gsc/image/l3/overley_img.jpg" alt="">
         <div class="container">
+            <?php 
+                if(isset($_GET['success'])){
+                    
+                    echo "<div class='alart alart-success'>Registation Successfull</div>";
+                }
+            ?>
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
                 <div class="col-xl-12 text-white mx-auto">
                     <h1 class="text-white"><strong>Register to GSC Events in 2025</strong></h1>
@@ -477,17 +483,10 @@
     $res = mysqli_query($db,$sql);
 
     if ($res) {
-            header('location:event.php?success=1');
-            exit();
+        header('location:event.php?success=1');
+        exit();
     } else {
-        echo '
-        <div class="alert alert-danger alert-dismissible fade show" role="alert">
-            Registation Failed!
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
-        </div>
-        ';
+        header('localhost:event.php?success=2');
     }
 
 
