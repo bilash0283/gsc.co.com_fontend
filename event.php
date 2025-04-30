@@ -477,14 +477,8 @@
     $res = mysqli_query($db,$sql);
 
     if ($res) {
-        echo '
-        <div class="alert alert-success alert-dismissible fade show" role="alert">
-            Regstation Successfull!
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
-        </div>
-        ';
+            header('location:event.php?success=1');
+            exit();
     } else {
         echo '
         <div class="alert alert-danger alert-dismissible fade show" role="alert">
