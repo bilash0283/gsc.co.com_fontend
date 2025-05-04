@@ -497,6 +497,8 @@
 <?php include "./pages/include/footer.php"; ?>
 
 
+<!-- this is a event page . for register for a event  -->
+
 
 
 
