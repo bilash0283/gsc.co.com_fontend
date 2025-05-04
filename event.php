@@ -105,9 +105,6 @@
     <section id="event_register" class="call-to-action">
         <img src="assets/src_gsc/image/l3/overley_img.jpg" alt="">
         <div class="container">
-            <?php 
-               
-            ?>
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
                 <div class="col-xl-12 text-white mx-auto">
                     <h1 class="text-white"><strong>Register to GSC Events in 2025</strong></h1>
@@ -479,12 +476,12 @@
     $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
     $res = mysqli_query($db,$sql);
 
-    if ($res) {
-        header('location:event.php?success=1');
-        exit();
-    } else {
-        header('localhost:event.php?success=2');
-    }
+    // if ($res) {
+    //     echo "Registatiaon Successfull";
+    //     exit();
+    // } else {
+    //     header('localhost:event.php?success=2');
+    // }
 
 
     }
