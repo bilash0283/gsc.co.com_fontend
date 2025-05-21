@@ -487,19 +487,17 @@
         echo "Your Country Name is Empty";
     }else if(empty($destinations)){
         echo "Your Destinations is Empty";
-    }
+    }else{
+        $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
+        $res = mysqli_query($db,$sql);
 
-    $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
-    $res = mysqli_query($db,$sql);
-
-    // if ($res) {
-    //     echo "Registatiaon Successfull";
-    //     exit();
-    // } else {
-    //     header('localhost:event.php?success=2');
-    // }
-
-
+        // if ($res) {
+        //     echo "Registatiaon Successfull";
+        //     exit();
+        // } else {
+        //     header('localhost:event.php?success=2');
+        // }
+        }
     }
     
 
