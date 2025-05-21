@@ -477,7 +477,11 @@
         echo "Your name is Empty";
     }else if (empty($email)){
         echo "Your Email is Empty";
-    }
+    }else if(empty($phone)){
+        echo "Your Phone No is Empty";
+    }else if(empty($Institute)){
+        echo "Your Institute Name is Empty";
+    }else if
 
     $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
     $res = mysqli_query($db,$sql);
