@@ -473,6 +473,12 @@
     $country = $_POST['country'];
     $destinations = $_POST['destinations'];
 
+    if(empty($name)){
+        echo "Your name is Empty";
+    }else if (empty($email)){
+        echo "Your Email is Empty";
+    }
+
     $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
     $res = mysqli_query($db,$sql);
 
@@ -496,11 +502,4 @@
 </script>
 <?php include "./pages/include/footer.php"; ?>
 
-
-<!-- this is a event page . for register for a event  -->
-
-
-
-<!-- this is a today code -->
- <!-- this is a today code -->
 
