@@ -483,6 +483,8 @@
         echo "Your Institute Name is Empty";
     }else if(empty($Institute_type)){
         echo "Your Institute Type is Empty";
+    }else if(empty($country)){
+        echo "Your Country Name is Empty";
     }
 
     $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
