@@ -7,7 +7,7 @@
                     <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center"
                         data-aos="zoom-out">
                         <h1>Get Access to 200+ Universities</h1>
-                        <p>Global Study Contacts provides a platform for agents/agencies to work in collaboration with the most top-rated universities in the world</p>
+                        <p>GscEduTech provides a platform for agents/agencies to work in collaboration with the most top-rated universities in the world</p>
                         <div class="d-flex">
                             <a href="https://ci-gsc.com" class="reg_btn_hover text-white text-center pt-2" >Partner With Us</a>
                         </div>
@@ -22,7 +22,7 @@
         <!-- simple icon section -->
         <section>
             <div class="container">
-                <h1 class="text-center fw-semibold">Why work with GSC</h1>
+                <h1 class="text-center fw-semibold">Why work with GscEduTech</h1>
                 <div class="row mt-5">
                     <div class="col-md-4 text-center d-flex flex-column justify-content-center align-items-center ">
                         <div class="rounded-3 d-flex justify-content-center align-items-center"
@@ -76,7 +76,7 @@
                         <div class="p-3">
                             <h1>We provide agents the best<br>
                                 <span class="text-info">Commision Rates</span></h1>
-                            <p class="my-4">GSC boasts its lucrative commission rates in this highly competitive consultancy market. GSC has helped more than 200 business grow out of their home office</p>
+                            <p class="my-4">GscEduTech boasts its lucrative commission rates in this highly competitive consultancy market. GscEduTech has helped more than 200 business grow out of their home office</p>
                             <a href="" class="text-info" >LEARN MORE <i class="bi bi-arrow-right-short fw-semibold"></i></a>
                         </div>
                     </div>

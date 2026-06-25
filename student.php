@@ -8,7 +8,7 @@
                     <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center"
                         data-aos="zoom-out">
                         <h1><strong>Resettle Onto Your Dream Study Destination</strong></h1>
-                        <p>Global Study Contacts Specialize in Education Consultancy, Visa Processing, Part-time Job
+                        <p>GscEduTech Specialize in Education Consultancy, Visa Processing, Part-time Job
                             Scouting, PR and Everything you need to start your new life</p>
                         <div class="d-flex">
                             <input type="text" placeholder="Search Program......"

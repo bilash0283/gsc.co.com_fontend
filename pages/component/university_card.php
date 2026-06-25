@@ -81,9 +81,9 @@
         <div class="card m-2">
             <div class="card-body bg-light">
                 <div class="d-flex justify-content-between align-items-center">
-                    <img src="assets/src_gsc/image/uni_img/UK/uk (5).png" class="img-fluid rounded-2" alt="GSC - Global Study Contacts"
+                    <img src="assets/src_gsc/image/uni_img/UK/uk(7).png" class="img-fluid rounded-2" alt="GSC - Global Study Contacts"
                         style="width:100px; height: 100px;">
-                    <h4 style="margin-right: 60px;">Ulster University</h4>
+                    <h4 style="margin-right: 60px;">Canterbury Christchurch University</h4>
                 </div>
                 <div class="d-flex justify-content-between align-items-center mt-5">
                     <small class="bg-info px-2 py-1 rounded-1 text-white m-2 text-small" style="font-size: 12px;"><i

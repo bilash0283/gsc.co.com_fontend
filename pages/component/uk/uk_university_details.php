@@ -163,11 +163,11 @@
         <div class="col-lg-4 py-2" data-aos="zoom-in" data-aos-delay="300">
           <div class="card h-100% bg-light ">
             <div class="card-body">
-              <img src="assets/src_gsc/image/uni_img/UK/uk (5).png" class="img-fluid rounded-3" alt=""
+              <img src="assets/src_gsc/image/uni_img/UK/uk(7).png" class="img-fluid rounded-3" alt=""
                 style="width:100px;height: 100px;">
 
               <div class="pt-4">
-                <h6 class="py-2">Ulster University</h6>
+                <h6 class="py-2">Canterbury Christchurch University</h6>
                 <span class="text-small bg-info py-1 px-2 rounded-2 text-white text-uppercase"
                   style="font-size: 10px;"><i class="bi bi-geo-alt-fill mr-2 "></i> UK</span>
 

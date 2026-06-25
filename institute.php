@@ -7,7 +7,7 @@
                     <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center"
                         data-aos="zoom-out">
                         <h1>Bring Diversity to your Campus</h1>
-                        <p>Operating in 50+ Countries Global Study Contacts helps institutes diversify their campus with qualified students from all around the world</p>
+                        <p>Operating in 50+ Countries GscEduTech helps institutes diversify their campus with qualified students from all around the world</p>
                         <div class="d-flex">
                         <button class=" border-none text-white fw-semibold reg_btn_hover p-2 m-3"><a
                         href="https://ci-gsc.com/" class="text-white">Partner With Us</a></button>
@@ -159,8 +159,8 @@
                     <div class="col-md-6  d-flex flex-column justify-content-center align-items-center">
                         <div class="p-3">
                             <h1>Over 200+ Universities recruit from <br>
-                                Global Study Contacts</h1>
-                            <p class="my-4">Universities from 15+ Countries have reached their annual intake goals after joining hands with GSC</p>
+                                GscEduTech</h1>
+                            <p class="my-4">Universities from 15+ Countries have reached their annual intake goals after joining hands with GscEduTech</p>
                             <a href="" class="text-info" >LEARN MORE <i class="bi bi-arrow-right-short fw-semibold"></i></a>
                         </div>
                     </div>

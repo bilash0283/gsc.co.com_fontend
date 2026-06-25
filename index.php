@@ -3,12 +3,11 @@
 <main class="main">
   <!-- Hero Section -->
   <section id="hero" class="hero section dark-background">
-
     <div class="container">
       <div class="row gy-4">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
           <h1><strong>Find the most promising Study Destinations!</strong></h1>
-          <p>For over 34 years, Global Study Contacts (part of Contacts International) has been the ‘home’ of overseas
+          <p>For over <?php echo date("Y") - 1990; ?> years, GscEduTech has been the ‘home’ of overseas
             university applications, assisting self-funded students
             through the entire university application process.</p>
           <div class="d-flex">
@@ -18,20 +17,20 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="assets/img/1.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
-
-  </section><!-- /Hero Section -->
+  </section>
+  <!-- /Hero Section -->
 
   <!-- Clients Section -->
   <?php include "./pages/component/clients_section.php"; ?>
-  <!-- /Clients Section -->
+  <!-- Clients Section -->
 
   <!-- Services Section -->
   <?php include "./pages/component/services_section.php"; ?>
-  <!-- /Services Section -->
+  <!-- Services Section -->
 
   <!-- Why Us Section -->
   <section id="why-us" class="section why-us light-background py-5" data-builder="section">
@@ -40,7 +39,7 @@
         <div class="col-lg-7 d-flex flex-column justify-content-center order-2 order-lg-1">
           <div class="content px-xl-5" data-aos="fade-up" data-aos-delay="100">
             <h1 class="py-4"><strong>Why Choose <br>
-                Global Study Contacts</strong></h1>
+                GscEduTech</strong></h1>
 
           </div>
 
@@ -48,9 +47,9 @@
 
             <div class="faq-item faq-active">
 
-              <h3><span><i class="bi bi-bookmark-star-fill"></i></span>34 years of Un-detered Service</h3>
+              <h3><span><i class="bi bi-bookmark-star-fill"></i></span><?php echo date("Y") - 1990; ?> years of Un-detered Service</h3>
               <div class="faq-content">
-                <p>Global Study Contacts (part of Contacts International) has been working tirelessly for the past 34
+                <p>GscEduTech has been working tirelessly for the past <?php echo date("Y") - 1990; ?>
                   years to ensure placement of students in the right countries</p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
@@ -84,11 +83,12 @@
 
     </div>
 
-  </section><!-- /Why Us Section -->
+  </section>
+  <!-- Why Us Section -->
 
   <!-- university Detaiils Section -->
   <?php include "./pages/component/univ_details.php"; ?>
-  <!-- /university Detaiils Section -->
+  <!-- university Detaiils Section -->
 
   <!-- grid img section  -->
   <section id="#" class="bg-light">
@@ -98,7 +98,7 @@
           <div class="mx-auto text-start">
             <p class="">Looking for an experienced consultant to help you find the right Study Destination?</p>
             <h1 class="py-2"><strong>Resettle in your dream country with the best Scholarships</strong></h1>
-            <p class="pb-4">Global Study Contacts Specialize in Education Consultancy, Visa Processing, Job
+            <p class="pb-4">GscEduTech Specialize in Education Consultancy, Visa Processing, Job
               Scouting and Everything you need to start your new academic life</p>
             <button class="reg_btn_hover text-white">CONTACT US</button>
           </div>
