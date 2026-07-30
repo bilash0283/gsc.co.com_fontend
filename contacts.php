@@ -22,7 +22,7 @@
                                 <i class="bi bi-telephone flex-shrink-0"></i>
                                 <div>
                                     <h3>Call Us</h3>
-                                    <p>+880 1990-225993</p>
+                                    <p>+880 1836615662</p>
                                 </div>
                             </div><!-- End Info Item -->
                             <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
@@ -32,11 +32,11 @@
                                     <p>info@ci-gsc.com</p>
                                 </div>
                             </div><!-- End Info Item -->
-                            <iframe
+                            <!-- <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2819.1052145802178!2d90.41496727397119!3d23.781224487594848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b88fc4ea7a57%3A0xdd2167088c032fc8!2sGlobal%20Study%20Contacts%20(GSC)%20%2C%20Contacts%20International!5e1!3m2!1sen!2sbd!4v1734850780335!5m2!1sen!2sbd"
                                 frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen=""
                                 loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-                            </iframe>
+                            </iframe> -->
                         </div>
                     </div>
                     <div class="col-lg-7">

@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
                 <div class="col-xl-9 text-center text-xl-center mx-auto">
-                    <h1 class="text-white display-5 fw-semibold"><strong>GSC Events in 2025</strong></h1>
+                    <h1 class="text-white display-5 fw-semibold"><strong>GscEduTech Events in <?php echo date('Y'); ?></strong></h1>
                     <p class="text-white">World’s Unique Educational Experience</p>
                     <div class="col-xl-3 cta-btn-container text-center mx-auto mt-5">
                         <a href="#event_register"
@@ -26,17 +26,17 @@
                 <div class="col-md-4 gap-5">
                     <i class="bi bi-people fs-3 "
                         style="padding: 10px 15px;border-radius: 50%;border: 3px solid #47b2e4;"></i>
-                    <h5 class="my-3"><strong>B2B</strong></h5>
+                    <h5 class="my-3 text-uppercase"><strong>B2B</strong></h5>
                 </div>
                 <div class="col-md-4">
                     <i class="bi bi-globe fs-3"
                         style="padding: 10px 15px;border-radius: 50%;border: 3px solid #47b2e4;"></i>
-                    <h5 class="my-3"><strong>B2C</strong></h5>
+                    <h5 class="my-3 text-uppercase"><strong>SERVICE PROVIDERS</strong></h5>
                 </div>
                 <div class="col-md-4">
                     <i class="bi bi-bullseye fs-3 "
                         style="padding: 10px 15px;border-radius: 50%;border: 3px solid #47b2e4;"></i>
-                    <h5 class="my-3"><strong>School Visits</strong></h5>
+                    <h5 class="my-3 text-uppercase"><strong>School Visits</strong></h5>
                 </div>
             </div>
         </div>
@@ -107,9 +107,9 @@
         <div class="container">
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
                 <div class="col-xl-12 text-white mx-auto">
-                    <h1 class="text-white"><strong>Register to GSC Events in 2025</strong></h1>
-                    <p class="text-white">Fill in the registration form to express your interest in GSC events
-                        planned for 2025. GSC Team will contact you shortly.</p>
+                    <h1 class="text-white"><strong>Register to GscEduTech Events in <?php echo date('Y'); ?></strong></h1>
+                    <p class="text-white">Fill in the registration form to express your interest in GscEduTech events
+                        planned for <?php echo date('Y'); ?>. GscEduTech Team will contact you shortly.</p>
                     <form action="" method="POST">
                         <div class="row">
                             <div class="col-md-6">
@@ -459,49 +459,6 @@
         </div>
     </section><!-- /Call To Action Section -->
 </main>
-
-<?php 
-    // database file connected 
-    $db = mysqli_connect('localhost','root','','gsc');
-
-    if(isset($_POST['btn'])){
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $phone = $_POST['phone'];
-    $Institute = $_POST['Institute'];
-    $Institute_type = $_POST['Institute_type'];
-    $country = $_POST['country'];
-    $destinations = $_POST['destinations'];
-
-    if(empty($name)){
-        echo "Your name is Empty";
-    }else if (empty($email)){
-        echo "Your Email is Empty";
-    }else if(empty($phone)){
-        echo "Your Phone No is Empty";
-    }else if(empty($Institute)){
-        echo "Your Institute Name is Empty";
-    }else if(empty($Institute_type)){
-        echo "Your Institute Type is Empty";
-    }else if(empty($country)){
-        echo "Your Country Name is Empty";
-    }else if(empty($destinations)){
-        echo "Your Destinations is Empty";
-    }else{
-        $sql = "INSERT INTO events (name,email,phone,Institute,Institute_type,country,destinations) VALUE ('$name','$email','$phone','$Institute','$Institute_type','$country','$destinations')";
-        $res = mysqli_query($db,$sql);
-
-        // if ($res) {
-        //     echo "Registatiaon Successfull";
-        //     exit();
-        // } else {
-        //     header('localhost:event.php?success=2');
-        // }
-        }
-    }
-    
-
-?>
 
 <script>
     function showModal(element) {
