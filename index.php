@@ -7,7 +7,7 @@
       <div class="row gy-4">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
           <h1><strong>Find the most promising Study Destinations!</strong></h1>
-          <p>For over <?php echo date("Y") - 1990; ?> years, GscEduTech has been the ‘home’ of overseas
+          <p>For over <?php echo date("Y") - 2021; ?> years, GscEduTech has been the ‘home’ of overseas
             university applications, assisting self-funded students
             through the entire university application process.</p>
           <div class="d-flex">
@@ -47,9 +47,9 @@
 
             <div class="faq-item faq-active">
 
-              <h3><span><i class="bi bi-bookmark-star-fill"></i></span><?php echo date("Y") - 1990; ?> years of Un-detered Service</h3>
+              <h3><span><i class="bi bi-bookmark-star-fill"></i></span><?php echo date("Y") - 2021; ?> years of Un-detered Service</h3>
               <div class="faq-content">
-                <p>GscEduTech has been working tirelessly for the past <?php echo date("Y") - 1990; ?>
+                <p>GscEduTech has been working tirelessly for the past <?php echo date("Y") - 2021; ?>
                   years to ensure placement of students in the right countries</p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
@@ -110,7 +110,7 @@
                 alt="">
             </div>
             <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
-              <img src="./assets/src_gsc/image/uni_img/UK/uk (6).png" class="img-fluid rounded-2" alt="">
+              <img src="./assets/src_gsc/image/uni_img/UK/uk (4).png" class="img-fluid rounded-2" alt="">
             </div>
             <div class="col-lg-3 p-4 p-lg-2 pt-lg-0">
               <img src="./assets/src_gsc/image/uni_img/Australia/australia (4).png" class="img-fluid rounded-2" alt="">

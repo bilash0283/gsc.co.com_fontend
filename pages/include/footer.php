@@ -40,7 +40,7 @@
 
       <div class="col-lg-4 col-md-6 footer-about">
         <a href="index.php" class="d-flex align-items-center">
-          <img src="assets/src_gsc/favicon2.png" alt="" class="img-fluid mx-auto" style="width:120px;height: 120px;">
+          <img src="assets/src_gsc/favicon2.png" alt="" class="img-fluid mx-auto" style="width:75px;height: 75px;">
         </a>
         <div class="row">
           <div class="col-md-6 my-2">
@@ -50,7 +50,7 @@
                 Gulshan-1, Dhaka
               </p>
               <p><i class="bi bi-envelope-fill text-info"></i> info@ci-gsc.com</p>
-              <p><i class="bi bi-telephone-fill text-info mr-2"></i>+880 1990225993</p>
+              <p><i class="bi bi-telephone-fill text-info mr-2"></i>+880 1836615662</p>
             </div>
           </div>
           <div class="col-md-6 my-2">

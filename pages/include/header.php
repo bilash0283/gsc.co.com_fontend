@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Global Study Contacts</title>
-  <meta name="description" content="Global Study Contacts offers education consultancy,study abroad, visa processing, job scouting, and more to help you start your academic journey abroad,GSC,Student Visa Processing.">
+  <title>GSC Edu Tech</title>
+  <meta name="description" content="GSC Edu Tech Global Study Contacts offers education consultancy,study abroad, visa processing, job scouting, and more to help you start your academic journey abroad,GSC,Student Visa Processing.">
   <meta name="keywords" content="GSC, Global Study Contacts, study abroad, student visa, visa processing,Education consultants in Bangladesh, Best study overseas firm in Dhaka, Best study abroad consultants, Best education consultants in bangladesh, Consultants for abroad study in Dhaka, Study abroad agents Bangladesh, Best agency for studying abroad in Dhaka, education consultancy, job scouting, overseas education, international study, scholarship assistance, academic counseling, study visa application, study in USA, study in Canada, study in UK, study in Cyprus, study in Denmark, study in Australia, immigration support, university admission guidance, foreign education, international student support, higher education consultancy, student visa consultant, abroad education programs, best study destinations, visa application assistance, global university admission, student scholarship opportunities">
   <meta name="google-site-verification" content="LcfL3ykQzogmP5PldMsiNHqMACOB_KJ_ukt2EAURdUU" />
   <meta name="author" content="Global Study Contacts Team">
@@ -66,7 +66,7 @@
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
       <a href="index.php" class="logo d-flex align-items-center me-auto">
-        <img src="assets/src_gsc/favicon2.png" alt="">
+        <img src="assets/src_gsc/favicon2.png" alt="" class="my-2 img-fluid">
         <!-- <h1 class="sitename">Arsha</h1> -->
       </a>
 
